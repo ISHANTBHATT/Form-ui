@@ -13,7 +13,7 @@ function SuccessPage() {
       }}
     >
       <MdVerified style={{ width: "500px", height: "500px", color: "green" }} />
-      <p style={{ fontSize: "50px", color: "white", fontWeight: "800" }}>
+      <p style={{ fontSize: "50px", color: "black", fontWeight: "800" }}>
         Thank you For Confirming
       </p>
     </div>
