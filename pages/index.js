@@ -583,6 +583,12 @@ export default function Home() {
       >
         Submit
       </Button>
+
+      <div style={{ fontSize: "14px", marginTop: "10px" }}>
+        <p style={{ color: "#697565" }}>
+          Application Developed by Apace Digital Cargo
+        </p>
+      </div>
     </Container>
   );
 }
